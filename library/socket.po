@@ -49,6 +49,8 @@ msgid ""
 "``wasm32-emscripten`` and ``wasm32-wasi``. See :ref:`wasm-availability` for "
 "more information."
 msgstr ""
+"此模組在 WebAssembly 平台 ``wasm32-emscripten`` 和 ``wasm32-wasi`` 上無法作用"
+"或無法使用。有關更多資訊，請參閱 :ref:`wasm-availability`。"
 
 #: ../../library/socket.rst:24
 msgid ""
@@ -423,11 +425,11 @@ msgstr ""
 
 #: ../../library/socket.rst:247
 msgid "``HV_GUID_ZERO``"
-msgstr ""
+msgstr "``HV_GUID_ZERO``"
 
 #: ../../library/socket.rst:248
 msgid "``HV_GUID_BROADCAST``"
-msgstr ""
+msgstr "``HV_GUID_BROADCAST``"
 
 #: ../../library/socket.rst:249
 msgid ""
